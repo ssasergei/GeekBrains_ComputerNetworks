@@ -18,5 +18,5 @@
 
 # Задача №4*
 > Настроить loopback интерфейсы.
-![lookback_1](https://github.com/ssasergei/GeekBrains_ComputerNetworks/blob/master/Sem2_Ethernet_IP/screenshots/lookback_1.png)
-![lookback_2](https://github.com/ssasergei/GeekBrains_ComputerNetworks/blob/master/Sem2_Ethernet_IP/screenshots/lookback_2.png)
+![loopback_1](https://github.com/ssasergei/GeekBrains_ComputerNetworks/blob/master/Sem2_Ethernet_IP/screenshots/loopback_1.png)
+![loopback_2](https://github.com/ssasergei/GeekBrains_ComputerNetworks/blob/master/Sem2_Ethernet_IP/screenshots/loopback_2.png)
