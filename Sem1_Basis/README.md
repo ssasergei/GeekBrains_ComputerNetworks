@@ -5,8 +5,7 @@
 # Задача №2
 
 > Сдать два скриншота успешного пинга с РС 10.0.0.1 на интерфейс сервера Fa0 10.0.0.5 и на PC 10.0.0.3.
-
-![Сдать два скриншота успешного пинга с РС 10.0.0.1 на интерфейс сервера Fa0 10.0.0.5 и на PC 10.0.0.3.] (https://github.com/ssasergei/GeekBrains_ComputerNetworks/blob/master/Sem1_Basis/screenshots/ping_10.0.0.1_10.0.0.5_10.0.0.3png.png)
+![Сдать два скриншота успешного пинга с РС 10.0.0.1 на интерфейс сервера Fa0 10.0.0.5 и на PC 10.0.0.3.](https://github.com/ssasergei/GeekBrains_ComputerNetworks/blob/master/Sem1_Basis/screenshots/ping_10.0.0.1_10.0.0.5_10.0.0.3.png)
 
 # Задача №3
 
