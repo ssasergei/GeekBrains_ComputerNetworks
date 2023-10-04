@@ -26,4 +26,4 @@
 * на машине Yandex делает приватный IP, но одновременно в виртуализации создается Static NAT 1:1 в ваш публичный IP.
 * ![4-1](https://github.com/ssasergei/GeekBrains_ComputerNetworks/blob/master/Sem7_NAT_GRE/screenshots/4-1.png)
 
-* ![4-1](https://github.com/ssasergei/GeekBrains_ComputerNetworks/blob/master/Sem7_NAT_GRE/screenshots/4-1.png)
+* ![4-1](https://github.com/ssasergei/GeekBrains_ComputerNetworks/blob/master/Sem7_NAT_GRE/screenshots/4-2.png)
